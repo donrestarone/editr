@@ -1,0 +1,28 @@
+{
+  "name": "editr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "electron ." ,
+    "start": "npm run electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donrestarone/editr.git"
+  },
+  "keywords": [
+    "video",
+    "editor"
+  ],
+  "author": "donrestarone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donrestarone/editr/issues"
+  },
+  "homepage": "https://github.com/donrestarone/editr#readme",
+  "dependencies": {
+    "electron": "^5.0.0"
+  }
+}
